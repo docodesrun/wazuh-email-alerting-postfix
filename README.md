@@ -1,0 +1,1 @@
+# wazuh-email-alerting-postfix
